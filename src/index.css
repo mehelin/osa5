@@ -1,0 +1,38 @@
+.notification,
+.warning {
+  background-color: lightgreen;
+  font-size: 1.5rem;
+  width: 20%;
+  color: darkslateblue;
+  border: 1px solid violet;
+  border-radius: 4px;
+  margin-bottom: 2%;
+}
+
+.warning {
+  color: darkred;
+  border-color: orchid;
+}
+
+  .error {
+    color: darkred;
+    background: lightpink;
+    font-size: 18px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+
+  .blog-container {
+    border: 1px solid black;
+    width: 250px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    padding: 5px;
+  }
+
+  .log {
+    margin-bottom: 15px;
+  }
